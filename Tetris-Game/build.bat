@@ -1,0 +1,1 @@
+pyinstaller Tetris.spec
